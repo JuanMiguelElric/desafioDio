@@ -1,0 +1,17 @@
+a.cta {
+    width: 153px;
+    height: 153px;
+    border-radius: 50%;
+}
+
+.planos {
+    border-radius: 25px;
+    max-width: 326px;
+    min-width: 325px;
+}
+
+.planos:hover {
+    background-color: black !important;
+    color: white;
+    transition: ease-in 0.5s;
+}

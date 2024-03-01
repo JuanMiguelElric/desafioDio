@@ -1,0 +1,43 @@
+footer {
+    background: url("../../images/phrssec/footer.png") #000000;
+    background-repeat: no-repeat;
+    background-position: start;
+    background-size: cover;
+    /* height: 438px; */
+    padding-top: 150px;
+    margin-top: -2px;
+    padding-bottom:18px;
+}
+.logo-texto{
+    border: 1px solid red;
+}
+.border-left
+{
+    border-left: 1px solid;
+    border-image-slice: 1;
+    border-image-source: linear-gradient(to bottom, #0679FF 0%, #159AA3 100%);
+}
+
+#engrenagem{
+    margin-bottom: 10px;
+}
+
+#mensagem{
+    height: 132px;
+}
+@media screen and (max-width:992px) {
+    #mensagem{
+        height: 153px;
+    }
+}
+*{
+    /* box-sizing: border-box !important; */
+    /* background: rgb(0 100 0 / 0.1) !important ; */
+    /* scroll-behavior: none; */
+} 
+
+@media screen and (max-width: 425px){
+    footer{
+        padding-top: 180px;
+    }
+}

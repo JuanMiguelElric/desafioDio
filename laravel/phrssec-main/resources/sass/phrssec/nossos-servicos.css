@@ -1,0 +1,32 @@
+#nossos-servicos{
+   background-image: url('../../images/phrssec/bg-nossos.png'); 
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: cover;
+   padding-top: 150px !important;
+   padding-bottom: 150px !important;
+}
+.cards button.collapsed {
+    transform: rotate(45deg);
+    transition: ease 1.5s;
+}
+.cards {
+    border-radius: 20px;
+    max-width: 495px;
+}
+
+.margin-negativa {
+    margin-top: -100px;
+}
+
+@media screen and (max-width:768px){
+    .margin-negativa{
+        margin-top: 0;
+    }
+    #nossos-servicos
+    {
+        padding-top: 80px !important;
+        padding-bottom: 80px !important;
+    }
+}
+

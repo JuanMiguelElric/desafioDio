@@ -1,0 +1,17 @@
+#certificacoes{
+    background-image: url('../../images/phrssec/bg-certificados.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.certificacoes-img{
+    max-width: 209px;
+}
+.certificacoes-img:hover{
+    transform: scale(1.25);
+    transition: ease-in 0.5s;
+}
+.certificacoes-texto{
+    letter-spacing: 3.88px;
+    line-height: 64px;
+}
