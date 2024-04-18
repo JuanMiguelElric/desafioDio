@@ -1,0 +1,14 @@
+C:\Users\Juanc\.c#\DesafioCelularDio\obj\Debug\net8.0\DesafioCelularDio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juanc\.c#\DesafioCelularDio\obj\Debug\net8.0\DesafioCelularDio.AssemblyInfoInputs.cache
+C:\Users\Juanc\.c#\DesafioCelularDio\obj\Debug\net8.0\DesafioCelularDio.AssemblyInfo.cs
+C:\Users\Juanc\.c#\DesafioCelularDio\obj\Debug\net8.0\DesafioCelularDio.csproj.CoreCompileInputs.cache
+C:\Users\Juanc\.c#\DesafioCelularDio\bin\Debug\net8.0\DesafioCelularDio.exe
+C:\Users\Juanc\.c#\DesafioCelularDio\bin\Debug\net8.0\DesafioCelularDio.deps.json
+C:\Users\Juanc\.c#\DesafioCelularDio\bin\Debug\net8.0\DesafioCelularDio.runtimeconfig.json
+C:\Users\Juanc\.c#\DesafioCelularDio\bin\Debug\net8.0\DesafioCelularDio.dll
+C:\Users\Juanc\.c#\DesafioCelularDio\bin\Debug\net8.0\DesafioCelularDio.pdb
+C:\Users\Juanc\.c#\DesafioCelularDio\obj\Debug\net8.0\DesafioCelularDio.dll
+C:\Users\Juanc\.c#\DesafioCelularDio\obj\Debug\net8.0\refint\DesafioCelularDio.dll
+C:\Users\Juanc\.c#\DesafioCelularDio\obj\Debug\net8.0\DesafioCelularDio.pdb
+C:\Users\Juanc\.c#\DesafioCelularDio\obj\Debug\net8.0\DesafioCelularDio.genruntimeconfig.cache
+C:\Users\Juanc\.c#\DesafioCelularDio\obj\Debug\net8.0\ref\DesafioCelularDio.dll
